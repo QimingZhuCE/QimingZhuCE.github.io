@@ -4,7 +4,7 @@ winds via isogeometric fluid–structure interaction"
 collection: publications
 permalink: /publication/paper2
 excerpt: 'Fluid-Structure Interactions'
-date: 2010-10-01
+date: 2023-05-03
 venue: 'Computational Mechanics'
 paperurl: 'http://qimingzhuce.github.io/files/paper2.pdf'
 ---
