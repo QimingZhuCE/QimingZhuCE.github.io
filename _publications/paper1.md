@@ -2,7 +2,7 @@
 title: "Physics-informed machine learning for surrogate modeling of wind pressure and optimization of pressure sensor placement"
 collection: publications
 permalink: /publication/paper1
-excerpt: 'This paper is about PINN'
+excerpt: 'Physics-Informed Neural Network'
 date: 2023-03-01
 venue: 'Computational Mechanics'
 paperurl: 'http://qimingzhuce.github.io/files/paper1.pdf'
