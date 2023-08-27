@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ======
-Dr. Zhu graduated from the Department of Civil Engineering in the University of Illinois Urbana-Champaign. He concentrates on the research on Metal/Concrete 3D Printing process modeling, Fluid-Structure Interactions, Physics-Informed Neural Networks. He has published more than 10 papers on well-known journals. His computational framework on metal additive manufacturing process modeling has won the second place on the two items in [AM Bench 2022](https://www.nist.gov/ambench/am-bench-2022-challenge-submissions-and-awards) by National Institute of Standards and Technology, while the corresponding paper won the finalist for 33rd Robert J. Melosh Medal by Duke University.
+Dr. Zhu graduated from the Department of Civil Engineering in the University of Illinois Urbana-Champaign. He concentrates on the research on Metal/Concrete 3D Printing process modeling, Fluid-Structure Interactions, Physics-Informed Neural Networks. He has published more than 10 papers on top journals including Computer Methods in Applied Mechanics and Engineering, Computational Mechanics, International Journal for Numerical Methods in Engineering. His computational framework on metal additive manufacturing process modeling has won the second place on the two items in [AM Bench 2022](https://www.nist.gov/ambench/am-bench-2022-challenge-submissions-and-awards) by National Institute of Standards and Technology, while the corresponding paper won the finalist for 33rd Robert J. Melosh Medal by Duke University. My Chinese personal webpage is [here](http://homepage.hit.edu.cn/zhuqiming).
 
 Education
 ======
