@@ -13,10 +13,14 @@ Dr. Zhu graduated from the Department of Civil Engineering in the University of 
 
 Education
 ======
-* B.S. in Harbin Institute of Technology, Civil Engineering, 2014
-* M.S. in Harbin Institute of Technology, Civil Engineering, 2017
-* M.S. in University of Minnesota Twin Cities, Civil Engineering, 2019
-* Ph.D in University of Illinois Urbana-Champaign, Civil Engineering, 2022
+* B.S. Civil Engineering, Harbin Institute of Technology,           2014
+* M.S. Civil Engineering, Harbin Institute of Technology,           2017
+* M.S. Civil Engineering, University of Minnesota Twin Cities,      2019
+* Ph.D Civil Engineering, University of Illinois Urbana-Champaign,  2022
+
+Work
+======
+* Associate Professor, Civil Engineering, Harbin Institute of Technology, 2023
 
 Research Area
 ======
