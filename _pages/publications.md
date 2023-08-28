@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Qiming Zhu**, Xuguang Wang, Cristoforo Demartino, Jinhui Yan [Revealing aeroelastic effects on low-rise roof structures in turbulent winds via isogeometric fluid–structure interaction](http://qimingzhuce.github.io/files/paper2.pdf), *Computational Mechanics*, **2023**
-2. **Qiming Zhu**, Ze Zhao, Jinhui Yan [Physics-informedmachine learning for surrogate modeling of wind pressure and optimization of pressure sensor placement](http://qimingzhuce.github.io/files/paper1.pdf), *Computational Mechanics*, **2023**
+1. **Qiming Zhu**, Xuguang Wang, Cristoforo Demartino, Jinhui Yan [Revealing aeroelastic effects on low-rise roof structures in turbulent winds via isogeometric fluid–structure interaction](http://qimingzhuce.github.io/files/paper1.pdf), *Computational Mechanics*, **2023**
+2. **Qiming Zhu**, Ze Zhao, Jinhui Yan [Physics-informedmachine learning for surrogate modeling of wind pressure and optimization of pressure sensor placement](http://qimingzhuce.github.io/files/paper2.pdf), *Computational Mechanics*, **2023**
 3. Ze Zhao, **Qiming Zhu**, Anand Karuppiah, Michael Stuebner, Jim Lua, Nam Phan, Jinhui Yan [Computational multi-phase convective conjugate heat transfer on overlapping meshes: a quasi-direct coupling approach via Schwarz alternating method](http://qimingzhuce.github.io/files/paper3.pdf), *Computational Mechanics*, **2023**
 4. Songzhe Xu, **Qiming Zhu**, Milinda Fernando, Hari Sundar [A finite element level set method based on adaptive octree meshes for thermal free-surface flows](http://qimingzhuce.github.io/files/paper4.pdf), *International Journal for Numerical Methods in Engineering*, **2022**
 5. **Qiming Zhu**, Zeliang Liu, Jinhui Yan [Machine learning for metal additive manufacturing: predicting temperature andmelt pool fluid dynamics using physics-informed neural networks](http://qimingzhuce.github.io/files/paper5.pdf), *Computational Mechanics*, **2021**
