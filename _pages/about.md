@@ -18,7 +18,7 @@ Education
 * M.S. Civil Engineering, University of Minnesota Twin Cities,      2019
 * Ph.D Civil Engineering, University of Illinois Urbana-Champaign,  2022
 
-Work
+Work Experience
 ======
 * Associate Professor, Civil Engineering, Harbin Institute of Technology, 2023
 
