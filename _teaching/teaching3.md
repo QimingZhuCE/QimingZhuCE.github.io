@@ -1,5 +1,5 @@
 ---
-title: "Structure Optimization"
+title: "Computer Methods"
 collection: teaching
 type: "Graduate and Undergraduate course"
 permalink: /teaching/teaching3
