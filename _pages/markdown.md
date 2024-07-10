@@ -6,7 +6,6 @@ redirect_from:
   - /markdown.html
 ---
 
-Metal additive manufacturing modeling framework
 <br/><img src='/images/Metal_AM_modeling_framework.png'>
 
 * We developed a mixed interface-capturing/interface-tracing formulation for metal additive manufacturing modeling. The mixed formulation takes advantage of interface-tracking and interface-capturing methods while avoiding their limitations. The interface-capturing component is responsible for handling complex topological changes, such as the merging and separation of interfaces. The interface-tracking component constructs an explicit gas-metal interface, enabling the use of an explicit ray tracing-based laser model.
